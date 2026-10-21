@@ -14,7 +14,8 @@ ___
 Despite the low root mean squared error presented by the model, it was terrible at predicting the actual rating values (Tends to predict around 3 for all cases).
 
 > MSE training data: 1.9660063707317872
->> MSE testing data: 1.9732500366916386
+
+> MSE testing data: 1.9732500366916386
 
 ## Questions to answer from model?
 
