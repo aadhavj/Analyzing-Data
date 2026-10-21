@@ -13,6 +13,9 @@ ___
 
 Despite the low root mean squared error presented by the model, it was terrible at predicting the actual rating values (Tends to predict around 3 for all cases).
 
+> MSE training data: 1.9660063707317872
+> MSE testing data: 1.9732500366916386
+
 ## Questions to answer from model?
 
 Before creating the mode, I had a few questions that I wanted to answer using it.
@@ -30,4 +33,7 @@ Answer: No. According to the graphs from the matplotlibs, it seems that there is
 Finally, **Does a user's age have a visible effect on the ratings they give?**
 
 Answer: No. The graph shows that there is a 0.008 correlation coefficient, meaning that there seems to be no correlation between the variables.
+
+<img width="386" height="262" alt="image" src="https://github.com/user-attachments/assets/f6c617fa-cee6-42fb-95d3-5e7ce6e07d4e" />
+
 ___
