@@ -1,5 +1,3 @@
-<img width="386" height="263" alt="image" src="https://github.com/user-attachments/assets/a9fd9194-618b-4c13-903e-4b0eef743069" />
-
 # Analyzing Data
 
 The following project was made to complete the Sunset High School Artificial Intelligence assignment, analyzing data. Note to grader, the **matplotlib** graphs are present at the bottom of the printed data in the Juypter notebook file.
@@ -26,6 +24,8 @@ Answer: No, the variables don't seem to have any impact on predicing the ratings
 Second, **Do really short movies recieve bad ratings?**
 
 Answer: No. According to the graphs from the matplotlibs, it seems that there is no correlation between movie duration and ratings.
+
+<img width="386" height="263" alt="image" src="https://github.com/user-attachments/assets/a9fd9194-618b-4c13-903e-4b0eef743069" />
 
 Finally, **Does a user's age have a visible effect on the ratings they give?**
 
